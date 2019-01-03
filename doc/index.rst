@@ -8,3 +8,4 @@ Wenn ihr noch Fragen habt, könnt ihr euch im Spiel oder per E-Mail an uns wende
 .. toctree::
    :maxdepth: 2
 
+   src/contributions
