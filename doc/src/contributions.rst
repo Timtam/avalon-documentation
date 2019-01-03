@@ -17,6 +17,8 @@ Im Folgenden sind alle Leute aufgelistet, welche bereits am Soundpack mitgeholfe
   Speedwalks
 `Nsb <http://avalon.mud.de/finger.php?name=nsb>`_
   Speedwalks
+`Villiam <http://avalon.mud.de/finger.php?name=villiam>`_
+  Speedwalks
 
 Wir danken außerdem den Beteiligten, welche explizit der Nennung ihres Namens wiedersprochen haben.
 
