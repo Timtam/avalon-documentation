@@ -9,4 +9,5 @@ Wenn ihr noch Fragen habt, könnt ihr euch im Spiel oder per E-Mail an uns wende
    :maxdepth: 2
 
    src/download
+   src/playerdoc/index
    src/contributions
