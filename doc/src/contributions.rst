@@ -13,6 +13,8 @@ Im Folgenden sind alle Leute aufgelistet, welche bereits am Soundpack mitgeholfe
   Kanalfenster und TP/ZP/AP-Übersicht für Sehende
 `Magician <http://avalon.mud.de/finger.php?name=magician>`_
   Sound Design, Programmierung, Wartung
+`Narubia <http://avalon.mud.de/finger.php?name=narubia>`_
+  Speedwalks
 `Noxan <http://avalon.mud.de/finger.php?name=noxan>`_
   Speedwalks
 `Nsb <http://avalon.mud.de/finger.php?name=nsb>`_
