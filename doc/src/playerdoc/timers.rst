@@ -68,6 +68,19 @@ Sollte es nötig oder gewünscht sein, einen Timer für einen aktiven Zauber
 vorzeitig zu beenden, so ist dies wie gewohnt mittels :code:`timer beenden` 
 möglich. Der Name des Zaubers ist hierbei der Name des Timers.
 
+Warnungen für aktive Zauber
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Das Warnungssystem ermöglicht es den Spielern, für jeden Zauber einzeln 
+regelmäßige Warnungen auszugeben. Hierfür wird das Kommando :code:`!` 
+(Ausrufezeichen) genutzt. Beim Tippen von :code:`!` wird eine Liste von Zahlen 
+und den zugehörigen Zaubern ausgegeben. Mittels :code:`!` gefolgt von der 
+jeweiligen Zahl werden die Warnungen für diesen Zauber ein- oder ausgeschaltet. 
+Wenn die Warnungen für einen Zauber ausgeschaltet sind, werden hier nur 
+zusätzliche Informationen beim Start und beim Beenden des Zaubers ausgegeben. 
+Zauber, für welche Warnungen eingeschaltet sind, informieren minütlich über 
+ihre bereits abgelaufene Zeit.
+
 Voraussage der Dauer von Zaubern
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
