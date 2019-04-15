@@ -26,7 +26,8 @@ Wie gebe ich Start- und Zielort an?
 Ein Ort im Speedwalk-System besteht aus zwei Teilen, welche mit einem . (Punkt) 
 getrennt werden. Der erste Teil ist dabei das Gebiet und der zweite Teil der 
 Ort in diesem Gebiet. Die Orte und deren zugehörige Gebiete können mittels des 
-:code:`//` Befehls in Avalon abgefragt werden.
+:code:`//` Befehls in Avalon abgefragt werden. Außerdem kann :code:`//gebiet` 
+verwendet werden, um alle Orte in einem bestimmten Gebiet abzufragen.
 
 Ein gültiger Befehl für einen Speedwalk sieht dabei beispielsweise so aus:
 
@@ -57,3 +58,53 @@ des Starts entfallen lassen. In diesem Fall kann man mit :code:`/_ziel`
 .. code-block:: none
 
    /_alotria.eingang
+
+Kann ich weitere Informationen über einen bestimmten Ort bekommen?
+------------------------------------------------------------------
+
+Das Soundpack beinhaltet eine kurze Beschreibung jeden Ortes, welcher bekannt 
+ist. Um diese abzufragen, reicht der :code:`/gebiet.ort` Befehl. Auch hier kann 
+natürlich abgekürzt werden. Sollte die Beschreibung nicht ausreichend oder 
+fehlerhaft sein, zögert nicht, uns zu kontaktieren.
+
+Kann ich auch eigene Speedwalks aufzeichnen?
+--------------------------------------------
+
+Und wenn ja, wie geht das?
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tatsächlich ist es möglich, eigene Speedwalks ganz einfach selbst aufzuzeichnen 
+und anschließend entweder abzuspeichern oder an die Entwickler zu verschicken, 
+damit sie zukünftig für alle Spieler im Soundpack zur Verfügung stehen. Hierfür 
+wird der Befehl :code:`spm start` genutzt. Nachdem dieser Befehl eingegeben 
+wurde, werden alle folgenden Befehle aufgezeichnet. Nun kann der Weg, welcher 
+aufgezeichnet werden soll, gelaufen werden. Sollte man sich hierbei einmal 
+verlaufen, kann mittels :code:`spm zurueck` der letzte Befehl aus der Aufzeichnung 
+gelöscht werden. Beendet wird die Aufzeichnung mittels :code:`spm stop`.
+
+Nach dem Ende der Aufzeichnung wird das Soundpack mehrere Fragen zu Gebiet, 
+Ort und Beschreibung der Orte stellen. Diese werden so gut wie möglich bereits 
+von dem Soundpack bereitgestellt, müssen allerdings gegebenenfalls vom Spieler 
+ausgefüllt werden. Hierbei können auch Fragen zur Umkehrung mancher Kommandos 
+gestellt werden. Dies hat den Hintergrund, dass das Soundpack zusätzlich zu 
+dem einmal gelaufenen Weg gleich den Rückweg zu ermitteln versucht. Aufgrund 
+der avalonischen Struktur ist es hier nicht immer möglich, zu manchen Befehlen 
+direkt das Gegenstück zu finden. Ein Loch, in welches mittels 
+:code:`klettere in loch` geklettert wurde, kann an manchen Orten mit 
+:code:`klettere hoch`, an manchen aber auch nur mit :code:`hoch` verlassen 
+werden. Aus diesem Grund muss der Spieler hier den korrekten Befehl für die 
+umgekehrte Aktion bereitstellen.
+
+Nach erfolgreicher Aufzeichnung wird der Spieler über den Erfolg informiert.
+
+Wie speichere ich den Speedwalk lokal für mich ab?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Der Befehl :code:`spm speichern` reicht hierfür vollkommen aus. Von nun an kann der neue Speedwalk wie oben normal genutzt werden.
+
+Wie kann ich den Speedwalk den Entwicklern zukommen lassen?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nach der erfolgreichen Aufzeichnung kann der Speedwalk mittels 
+:code:`spm kopieren` in die Zwischenablage kopiert werden. Von dort kann er 
+uns per Mail oder In-Game Brief zugeschickt werden.
