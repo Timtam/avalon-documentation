@@ -67,6 +67,19 @@ ist. Um diese abzufragen, reicht der :code:`/gebiet.ort` Befehl. Auch hier kann
 natürlich abgekürzt werden. Sollte die Beschreibung nicht ausreichend oder 
 fehlerhaft sein, zögert nicht, uns zu kontaktieren.
 
+Meine Erfahrung im Gruppenkampf ist noch nicht groß genug, ich werde bei Speedwalks immer stehen gelassen, was kann ich tun?
+----------------------------------------------------------------------------------------------------------------------------
+
+Das Soundpack besitzt einen Gruppenmodus für Speedwalks, welcher es ermöglicht, 
+die Geschwindigkeit für Speedwalks so weit zu reduzieren, dass selbst das 
+langsamste Gruppenmitglied mit der Gruppenfolge-Mechanik in Avalon folgen kann. 
+Hierfür wird an das Ende des Speedwalk-Befehls ein :code:`?` (Fragezeichen) 
+angehängt. Ein gültiger Befehl wäre also:
+
+.. code-block:: none
+
+   /alotria.eingang_minias.zentrum?
+
 Kann ich auch eigene Speedwalks aufzeichnen?
 --------------------------------------------
 
