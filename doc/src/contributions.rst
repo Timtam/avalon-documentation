@@ -5,6 +5,8 @@ Im Folgenden sind alle Leute aufgelistet, welche bereits am Soundpack mitgeholfe
 
 `Adrian <http://avalon.mud.de/finger.php?name=adrian>`_
   Speedwalks
+`Ban <http://avalon.mud.de/finger.php?name=ban>`_
+  Visuelle Darstellung
 `Chiaray <http://avalon.mud.de/finger.php?name=chiaray>`_
   Wartung
 `Dranor <http://avalon.mud.de/finger.php?name=dranor>`_
