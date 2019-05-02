@@ -1,12 +1,18 @@
-Hilfestellungen fuer Spieler mit Screen Reader Software
-=======================================================
+Häufige Probleme
+================
 
-Das Soundpack wird hauptsächlich von blinden Spielern entwickelt, und trotzdem 
-schleichen sich hier und dort Probleme ein, die zumeist durch Probleme in den 
-Screen Readern selbst aufgeworfen werden. Diese Probleme treten in 
-Zusammenspiel mit den für sehende Spieler gedachten Funktionen des Soundpacks 
-auf. Unten findet ihr einige der bekannten Probleme und wie ihr sie lösen 
-könnt.
+Es folgt ein Katalog an Problemen, welche häufiger auftreten und deren Lösungen daher unten aufgeführt werden.
+
+Beim Öffnen des Soundpacks bekomme ich viele Fehler angezeigt
+-------------------------------------------------------------
+
+Dieses Problem tritt auf, wenn beim Schließen des Soundpacks die Nachfrage, ob Änderungen an der Welt gespeichert werden sollen, bestätigt wurde. So könnt ihr diese Fehler beseitigen.
+
+1. Schließt das Soundpack vollständig.
+2. Führt den Updater (update.exe) im Ordner des Soundpacks aus.
+3. Bestätigt die Nachfrage, ob eine Aktualisierung durchgeführt werden soll, mit :code:`j`.
+4. Es folgt eine Frage, ob die Änderungen an der Welt übernommen werden sollen. Solltet ihr bereits eigene Trigger, Aliase oder Anderes in eure Welt eingetragen haben, bestätigt mit :code:`j`, ansonsten mit :code:`n`.
+5. Nach Abschluss der Aktualisierung sollten die Fehler nicht mehr auftreten.
 
 Mein Screen Reader liest mir ständig irgendwelche Zahlen vor, mit denen ich nichts anfangen kann
 ------------------------------------------------------------------------------------------------

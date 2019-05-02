@@ -9,4 +9,4 @@ Auf den folgenden Seiten findest Du alle Funktionen des Soundpacks und wie Du si
    sounds
    speedwalking
    timers
-   screen-readers
+   troubleshooting
