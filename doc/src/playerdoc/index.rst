@@ -6,6 +6,7 @@ Auf den folgenden Seiten findest Du alle Funktionen des Soundpacks und wie Du si
 .. toctree::
    :maxdepth: 2
 
-   screen-readers
+   sounds
    speedwalking
    timers
+   screen-readers
